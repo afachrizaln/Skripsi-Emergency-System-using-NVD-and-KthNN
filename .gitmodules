@@ -1,0 +1,6 @@
+[submodule "Skripsi-LaTEX-Book"]
+	path = Skripsi-LaTEX-Book
+	url = https://github.com/afachrizaln/Skripsi-LaTEX-Book
+[submodule "Skripsi-Web-Application"]
+	path = Skripsi-Web-Application
+	url = https://github.com/afachrizaln/Skripsi-Web-Application
